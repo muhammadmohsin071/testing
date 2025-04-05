@@ -12,7 +12,11 @@
         android:layout_height="wrap_content"
         android:text="Hello Mohsin!"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+        android:textStyle="bold"
+>>>>>>> final
         android:textColor="@color/design_default_color_error"
 >>>>>>> refs/remotes/origin/main
         app:layout_constraintBottom_toBottomOf="parent"
